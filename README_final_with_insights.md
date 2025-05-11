@@ -55,6 +55,16 @@ This lab goes beyond coding: we measure **accuracy vs compression**, plot **late
 
 ---
 
+## ✅ Submission Checklist
+
+- ✅ Custom PCA implementation (no `sklearn.PCA`)
+- ✅ Two use cases: numerical data + image data
+- ✅ Reconstruction, classification, trade-off analysis
+- ✅ Annotated plots & visual comparisons
+- ✅ Final README with interpretation and insights
+
+---
+
 ## 📄 License
 
 MIT License – Free to use, adapt, extend.
