@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.hp1_math_ai_pca
 *env/
 venv/
 ENV/
